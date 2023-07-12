@@ -1,3 +1,3 @@
-# Get Started!
+# klee-bot-die
 
-Add files and start typing 🎉
+this bot makes me want to krill myself

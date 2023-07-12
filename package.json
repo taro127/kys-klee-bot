@@ -1,5 +1,12 @@
 {
-  "name": "klee-bot-kys",
+  "name": "nodejs",
   "version": "1.0.0",
-  "author": "yuyu kys"
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
